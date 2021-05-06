@@ -4,9 +4,12 @@
 - [기술 블로그 바로가기](https://it-banlim.tistory.com/)
 
 ✨ 유의미한 Repository 
-- [2020][소셜 로그인 구현](https://github.com/Banlim/implement_social_login)
-- [2019-2020][Share Air](https://github.com/Banlim/ShareAir_Project)
-- [2019][Charle-sWithGCP](https://github.com/Banlim/Charle-sWithGCP)
+- [2021 -ing][왓챠피디아 카피](https://github.com/Banlim/watcha_copy)
+- [2021 -ing][Me Place Us]
+
+- [2020] [소셜 로그인 구현](https://github.com/Banlim/implement_social_login)
+- [2019-2020] [Share Air](https://github.com/Banlim/ShareAir_Project)
+- [2019] [Charle-sWithGCP](https://github.com/Banlim/Charle-sWithGCP)
 <!--
 **Banlim/Banlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
